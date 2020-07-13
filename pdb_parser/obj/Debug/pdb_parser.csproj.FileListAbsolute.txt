@@ -1,0 +1,8 @@
+d:\programlama\c#\projects\pdb_parser\pdb_parser\bin\Debug\pdb_parser.exe
+d:\programlama\c#\projects\pdb_parser\pdb_parser\bin\Debug\pdb_parser.pdb
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.csprojResolveAssemblyReference.cache
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.Form1.resources
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.Properties.Resources.resources
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.csproj.GenerateResource.Cache
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.exe
+d:\programlama\c#\projects\pdb_parser\pdb_parser\obj\Debug\pdb_parser.pdb
